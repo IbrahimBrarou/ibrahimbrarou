@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm ibrahim brarou</h1>
 <h3 align="center">A passionate backend developer from Morocco</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ibrahimbrarou&label=Profile%20views&color=0e75b6&style=flat" alt="ibrahimbrarou" /> </p>
-
 - 🔭 I’m currently working on **CRUD APP**
 
 - 👯 I’m looking to collaborate on **C# projects**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/ibrahim-brarou-0256b71b4" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ibrahim-brarou-0256b71b4" height="30" width="40" /></a>
+<a href="https://fb.com/brahim.brarou" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="brahim.brarou" height="30" width="40" /></a>
 <a href="https://instagram.com/ibrahim_brarou_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ibrahim_brarou_" height="30" width="40" /></a>
 </p>
 
